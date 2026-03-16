@@ -1,5 +1,5 @@
 
-# Intelligent AI CCTV Analytics & Video Recorder
+# Intelligent_Vision_Recorder
 
 OpenCV와 딥러닝 모델인 YOLOv8x를 결합한 지능형 비디오 레코더 시스템입니다. 실시간 객체 인식, 객체 추적, 특정 영역 확대(ROI Zoom) 및 영상 녹화 기능을 제공합니다.
 
