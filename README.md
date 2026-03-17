@@ -1,12 +1,15 @@
 
-# Intelligent_Vision_Recorder
+# IVR_Intelligent_Vision_Recorder
+<img width="1604" height="656" alt="image" src="https://github.com/user-attachments/assets/a393bc12-6f64-4aeb-8991-d1d613d2756c" />
 
 OpenCV와 딥러닝 모델인 YOLOv8x를 결합한 지능형 비디오 레코더 시스템입니다. 
 실시간 객체 인식, 객체 추적, 특정 영역 확대(ROI Zoom) 및 영상 녹화 기능을 제공합니다.
 
-======사진: 메인 실행 화면 (YOLO 박스와 카운터가 보이는 화면)=======
 
 ## 주요 기능
+
+<img width="2884" height="1669" alt="image" src="https://github.com/user-attachments/assets/e6c7c719-d0c4-4b87-a8ad-760260effb1c" />
+
 
 ### 1. 실시간 객체 인식 및 추적
 
@@ -29,7 +32,6 @@ OpenCV와 딥러닝 모델인 YOLOv8x를 결합한 지능형 비디오 레코더
 - **Real-time Filters**: 명암비(Contrast), 밝기(Brightness) 조절 및 좌우 반전(Flip) 기능을 실시간으로 적용할 수 있습니다.
     
 
-======사진: ROI 드래그 줌인 작동 화면=======
 
 
 ## 조작 가이드
@@ -48,8 +50,13 @@ OpenCV와 딥러닝 모델인 YOLOv8x를 결합한 지능형 비디오 레코더
     
 - **마우스 우클릭**: 확대 해제 (Reset Zoom)
     
+## 시연 영상
 
-======사진 또는 영상: 실제 녹화된 결과물 파일의 스크린샷=======
+
+
+https://github.com/user-attachments/assets/3a9ac389-2cd9-4115-896b-3c17963d30b5
+
+
 
 
 ## 시스템 사양 (System Requirements)
