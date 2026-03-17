@@ -56,7 +56,10 @@ OpenCV와 딥러닝 모델인 YOLOv8x를 결합한 지능형 비디오 레코더
 
 https://github.com/user-attachments/assets/3a9ac389-2cd9-4115-896b-3c17963d30b5
 
-
+- 0:03 : Zoom
+- 0:11 : Record
+- 0:14 : Flip
+- 0:19 : Contrast & Brightness
 
 
 ## 시스템 사양 (System Requirements)
